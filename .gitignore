@@ -63,3 +63,8 @@ cache
 
 modules/*/dist/*
 modules/*/assets/web/*
+packages/*/dist/*
+packages/*/build/*
+build/*
+packages/bp/src/admin/ui/build/*
+packages/ui-lite/public/*
