@@ -23,7 +23,7 @@
     "connected-react-router": "^6.9.1",
     "jdenticon": "^2.1.1",
     "joi-browser": "^13.4.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "ms": "^2.1.1",
     "nanoid": "^2.0.3",
     "query-string": "^5.0.1",
